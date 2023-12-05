@@ -8,7 +8,7 @@ A Reactive Angular application for browsing digimons! A complete catalogue of di
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli). 
 
-#### Check out the App here: [Live Preview]()
+#### Check out the App here: [Live Preview](https://656eaab548893e0d8bef300d--coruscating-starship-66ac59.netlify.app/)
 
 It uses both [Angular Material](https://material.angular.io/) for UI components &  [ngx-spinner](https://github.com/Napster2210/ngx-spinner) for the loading spinner. 
 
